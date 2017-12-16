@@ -1,2 +1,3 @@
-# Netflixc
-Group: Da Illest College Kids
+# 2016 Caltech Netflix Challenge
+## Class: CS 156b
+## Professor: Yaser Abu Mostafa
